@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Electro Store\\Desktop\\counter\\sepolia-testnet-deployment\\contracts\\counterfeit.sol": {
+      "lastModificationDate": 1717939718117,
+      "contentHash": "c8a638578d555ef3b02fe8b53b59852a",
+      "sourceName": "contracts/counterfeit.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.3"
+      ],
+      "artifacts": [
+        "CounterfeitMed"
+      ]
+    }
+  }
+}
